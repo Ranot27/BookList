@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">wtf</string>
+    <string name="inputName">Название</string>
+    <string name="hintInput">Вводи</string>
+    <string name="inputAuthor">Автор       </string>
+    <string name="addButton">Добавить</string>
+    <string name="saveButton">Сохранить</string>
+    <string name="deleteButton">Удалить</string>
+    <string name="showButton">Показать</string>
+    <string name="search">Поиск</string>
+    <string name="rating">Рейтинг</string>
+</resources>
